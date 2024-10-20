@@ -15,14 +15,15 @@ This extension allows users to upscale images using regional prompts with the Au
 
 Copy this repository into the Extension > Install from URL > URL for extension's git repository
    ```bash
-   https://github.com/HallettVisual/Regional-Prompt-Upscaler.git
+   https://github.com/HallettVisual/Regional-Prompt-Upscaler-Free.git
+
    ```
 
 ### Manual Install
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/HallettVisual/Regional-Prompt-Upscaler.git
+   git clone https://github.com/HallettVisual/Regional-Prompt-Upscaler-Free.git
    ```
 
 2. **Copy the scripts**: Move the contents of the `scripts/` folder into the `extensions/` folder of your **Automatic1111 Web UI** or **Forge** installation.
