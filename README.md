@@ -1,7 +1,4 @@
-# Regional-Prompt-Upscaler
-Works similar to the Ultimate Upscaler except that uses Vision-Language Models to generate prompts for each tile.  Plus a collection of other features.
-
-# Regional Prompt Upscaler for Automatic1111
+# Regional Prompt Upscaler for Automatic1111 And Forge
 
 This extension allows users to upscale images using regional prompts with the Automatic1111 web UI or Forge. It provides flexibility in enhancing specific regions of an image using different prompts.
 
@@ -13,6 +10,15 @@ This extension allows users to upscale images using regional prompts with the Au
 - **Examples**: Shows input and output examples (you can add images or screenshots in the `assets/` folder).
 - **Contributing**: Encourages contributions from the community.
 - **License**: The project is licensed under **GPLv3**, which you have chosen.
+
+### Install through Forge or A1111
+
+Copy this repository into the Extension > Install from URL > URL for extension's git repository
+   ```bash
+   https://github.com/HallettVisual/Regional-Prompt-Upscaler.git
+   ```
+
+### Manual Install
 
 1. **Clone the repository**:
    ```bash
